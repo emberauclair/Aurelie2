@@ -13,14 +13,14 @@ share: true
 [[what have I done]]
 .
 .
+Other 
 [[confusion]]
 [[fingerprints]]
 [[the girl on fire]]
 [[forever]]
 [[Dry Eyes]]
 [[daydream]]
-[[smoke on the wind]]
 [[I look left and walk right]]
-[[what have I done]]
+[[what have I done]] 
 [[a piece of advice]]
 [[Severed cries and echoing sighs]]

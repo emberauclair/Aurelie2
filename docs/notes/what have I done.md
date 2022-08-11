@@ -2,7 +2,6 @@
 share: true
 ---
 [[landing]]
-[[starboard]] [[complete]] [[posted]]   #poem/starboard #poem #submitted 
 
 What have I done?
 
@@ -30,3 +29,5 @@ I just want to earn my own measly crust.
 
 What have I done on this fine day? 
 I've frittered all my time away.
+
+[[starboard]] [[complete]] [[posted]]   #poem/starboard #poem #submitted 
