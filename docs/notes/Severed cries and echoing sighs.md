@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-[[landing]]
+[[landing]] [[My Poems]]
 Severed cries and echoing Sighs
 .
 .
