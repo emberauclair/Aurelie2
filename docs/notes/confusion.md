@@ -14,7 +14,7 @@ My emotions feel constipated
 there is a block on my brain
 I'm afraid to even think about it
 Sometimes I let it rain 
-It helps numb the pain though
+It helps numb the pain... yet,
 It does little to wash away the stain
 
 I'm scared of love
