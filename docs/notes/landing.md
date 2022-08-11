@@ -30,9 +30,6 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 [[snuggle]]
 [[small sad smile]]
 [[snow]]
-
-
-[[test file]]
 .
 .
 .
