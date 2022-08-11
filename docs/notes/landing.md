@@ -13,6 +13,7 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 - Programming
 - Philosophy/religion
 - Psychology
+- Coding
 
 
 ## Essays and Philosophy
@@ -24,12 +25,17 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 ## My Story
 [[Crescenda to Crescendo]]
 [[Aurelie Ember Auclair Biography]] - incomplete
+
 ## My Poems
 [[something]]
 [[thanks]]
 [[snuggle]]
 [[small sad smile]]
 [[snow]]
+
+## Coding Things
+[[Espanso tricks]]
+[[espanso shortcuts]]
 .
 .
 .
