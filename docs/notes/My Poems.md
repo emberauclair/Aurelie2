@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-[[landing]]
+[[landing]] 
 ## Starboard (the best poems)
 [[choices are yours]]
 [[my mind is a restless thing]]
@@ -13,7 +13,7 @@ share: true
 [[what have I done]]
 .
 .
-Other 
+Other favorites :)
 [[confusion]]
 [[fingerprints]]
 [[the girl on fire]]
@@ -21,6 +21,10 @@ Other
 [[Dry Eyes]]
 [[daydream]]
 [[I look left and walk right]]
-[[what have I done]] 
 [[a piece of advice]]
 [[Severed cries and echoing sighs]]
+[[The Best]]
+[[I sit and ponder]]
+[[iavas]]
+[[softly]]
+[[my mind shivers]]
