@@ -4,7 +4,7 @@ tags: published
 ---
 ## Aurélie Auclair - Getting Started
 
-Hello! and welcome to my thoughts, everything here is written as notes for me, and so it might be hard to comprehend as it lacks cohesiveness and context. Either way, feel free to browse :) A little bit about me for the curious - I'm 21 years old, I live in a boat in NYC, and I'm trans. 
+Hello! and welcome to my thoughts, everything here is written as notes for me, and so it might be hard to comprehend as it lacks cohesiveness and context. Either way, feel free to browse :)
 
 ## Interests
 - LGBTQ+
@@ -26,12 +26,20 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 [[Crescenda to Crescendo]]
 [[Aurelie Ember Auclair Biography]] - incomplete
 
-## My Poems
-[[something]]
-[[thanks]]
-[[snuggle]]
+## [[My Poems]] 
+
+## Starboard (the best poems)
+[[choices are yours]]
+[[my mind is a restless thing]]
 [[small sad smile]]
 [[snow]]
+[[snuggle]]
+[[something]]
+[[thanks]]
+[[what have I done]]
+
+
+
 
 ## Coding Things
 [[Espanso tricks]]
