@@ -51,6 +51,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://emberauclair.github.io/Aurelie2/notes/fingerprints/</loc>
+         <lastmod>2022-08-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://emberauclair.github.io/Aurelie2/notes/forever/</loc>
+         <lastmod>2022-08-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://emberauclair.github.io/Aurelie2/notes/landing/</loc>
          <lastmod>2022-08-11</lastmod>
          <changefreq>daily</changefreq>
@@ -82,6 +92,11 @@
     </url>
     <url>
          <loc>https://emberauclair.github.io/Aurelie2/notes/thanks/</loc>
+         <lastmod>2022-08-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://emberauclair.github.io/Aurelie2/notes/the%20girl%20on%20fire/</loc>
          <lastmod>2022-08-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
