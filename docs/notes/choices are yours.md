@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-[[landing]] [[My Poems]]
+[[landing]] [[My Poems]] #fav
 [[complete]] [[favorite]] [[posted]] [[starboard]]   #poem/starboard #poem #submitted 
 
 Choices Are Yours 
@@ -30,5 +30,3 @@ So please, please, wish me luck-
 Cause I decided to give a fuck.
 
 edited with HazyAutumnDreams- 1/11/2021
-
-Job core
