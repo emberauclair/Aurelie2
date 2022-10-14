@@ -5,7 +5,7 @@ tags: poem,
 aliases: []
 share: true
 ---
-[[landing]] [[My Poems]]
+[[landing]] [[My Poems]]  #fav
 the girl on fire 
 .
 .
