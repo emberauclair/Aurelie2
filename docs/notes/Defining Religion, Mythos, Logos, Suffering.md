@@ -13,17 +13,19 @@ Mythos
 - [[Dostoevsky]], [[Cervantes]], religion, [[Shakespeare]], all provide insight into Mythos. 
 
 Religion
-- psychotherapy
-- very practical 
+- psychotherapy for the masses
+- very practical
 - the traditional imitation of christ- do what he did 
 - [[Carl Jung]] suggests that you should imitate christ by going your own way, and developing your own personality. 
 - ie the duty to realize one's deepest conviction. 
-- Don't join a corrupt cult, Read the books, and go your own way
+- Don't join a corrupt cult (the church), instead read the books, follow the morals and live your own life. 
 
 Suffering
 - Physical pain
 - Mental pain
+- Empathic pain?
+- 
 
 Logos
 - logic and organizational skills
-
+- 
