@@ -19,4 +19,4 @@ Remember forever
 Make the most of your love
 
 
- [[complete]][[uniqueForm]] #poem 
+ [[complete]][[uniqueForm]] #poem  [[favorite]] #fav
