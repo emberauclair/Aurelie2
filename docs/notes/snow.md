@@ -5,7 +5,7 @@ share: true
 tags: published
 ---
 
-[[landing]]  [[My Poems]]
+[[landing]]  [[My Poems]] [[favorite]] #fav
 # snow  
 
 You came into my life promising happiness and beauty,  
