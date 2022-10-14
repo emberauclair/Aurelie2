@@ -26,4 +26,4 @@ I want to leave this world of sin
 weakness flows through my veins
 I cant bring myself to jerk the reins
 
-aej [[posted]] [[complete]]
+aej [[posted]] [[complete]] [[favorite]] #fav
