@@ -2,7 +2,7 @@
 share: true
 tags: published
 ---
-[[landing]] [[My Poems]]
+[[landing]] [[My Poems]] [[favorite]] #fav
 # snuggle
 
 
