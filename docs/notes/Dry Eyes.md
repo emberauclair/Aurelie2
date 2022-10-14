@@ -18,5 +18,5 @@ I'm just kid in a bubble,
 And I've got a bag of trouble
 
 -Aurélie 2021
-[[complete]] [[sad]]
-#poem
+[[complete]] [[sad]] [[favorite]]
+#poem #fav
