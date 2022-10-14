@@ -3,7 +3,7 @@ share: true
 ---
 [[landing]] 
 ## Starboard (the best poems)
-[[choices are yours]]
+[[choices are yours]] 
 [[my mind is a restless thing]]
 [[small sad smile]]
 [[snow]]
@@ -18,7 +18,7 @@ Other favorites :)
 [[fingerprints]]
 [[the girl on fire]]
 [[forever]]
-[[Dry Eyes]]
+[[Dry Eyes]] 
 [[daydream]]
 [[I look left and walk right]]
 [[a piece of advice]]
@@ -26,5 +26,5 @@ Other favorites :)
 [[The Best]]
 [[I sit and ponder]]
 [[iavas]]
-[[softly]]
+[[softly]] 
 [[my mind shivers]]

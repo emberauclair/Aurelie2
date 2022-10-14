@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-[[landing]] [[My Poems]]
+[[landing]] [[My Poems]]  [[favorite]] #fav
 Confusion
 .
 .

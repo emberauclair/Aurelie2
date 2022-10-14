@@ -3,7 +3,7 @@ share: true
 ---
 [[landing]] [[My Poems]]
 [[complete]] [[starboard]]  [[posted]] #poem/starboard #poem 
-
+[[favorite]] #fav
 My mind is a restless thing
 
 My mind is a restless thing,
