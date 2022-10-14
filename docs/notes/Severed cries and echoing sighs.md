@@ -20,4 +20,4 @@ It might be the last thing you finish
 It will finish you.
 
 -Aurélie, 2020
-[[complete]]  #poem 
+[[complete]]  #poem  [[favorite]] #fav
