@@ -20,4 +20,4 @@ like whitecaps on a storm tossed sea
 Celebrating the insanity 
 
 -Aurélie, 2021
-[[complete]] [[favorite]] [[posted]]  #poem/toshare
+[[complete]] [[favorite]] [[posted]]  #poem/toshare #fav
