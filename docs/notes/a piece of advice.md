@@ -1,5 +1,7 @@
 ---
 share: true
+rating: 8
+description: remember to be kind - people don’t last
 ---
 [[landing]] [[My Poems]]
 a piece of advice
