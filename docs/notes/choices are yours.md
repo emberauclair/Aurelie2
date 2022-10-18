@@ -1,5 +1,7 @@
 ---
 share: true
+rating: 8
+description: call to action!!!
 ---
 [[landing]] [[My Poems]] #fav
 [[complete]] [[favorite]] [[posted]] [[starboard]]   #poem/starboard #poem #submitted 
