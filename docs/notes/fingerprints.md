@@ -1,5 +1,7 @@
 ---
 share: true
+rating: 9
+description: cute, remembering past love
 ---
 [[landing]]  [[My Poems]]  #fav
 fingerprints 
@@ -22,7 +24,7 @@ my heart will always remember
 I will always remember 
    the rush
 Its gone now though
-I wish for your touch
+I wish for your touch.
 
 -2021
 
