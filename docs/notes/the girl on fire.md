@@ -4,6 +4,8 @@ date: 2022-02-22
 tags: poem, 
 aliases: []
 share: true
+rating: 9
+description: I feel like a beautiful god who destroys everything she touches
 ---
 [[landing]] [[My Poems]]  #fav
 the girl on fire 

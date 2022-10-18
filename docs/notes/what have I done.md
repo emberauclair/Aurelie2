@@ -1,5 +1,7 @@
 ---
 share: true
+rating: 8
+description: wishing I spent my time better
 ---
 [[landing]] [[My Poems]] [[favorite]] #fav
 

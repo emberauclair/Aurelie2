@@ -41,15 +41,7 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 
 
 ## My Poems
-[[choices are yours]]
-[[my mind is a restless thing]]
-[[small sad smile]]
-[[snow]]
-[[snuggle]]
-[[something]]
-[[thanks]]
-[[what have I done]]
-see more poems [[My Poems|here]]
+[[Sparking Ember's]]
 
 
 

@@ -1,6 +1,8 @@
 ---
 share: true
 tags: published
+rating: 10
+description: snuggles with my stuffed tiger as I fall asleep
 ---
 [[landing]] [[My Poems]] [[favorite]] #fav
 # snuggle
@@ -8,7 +10,7 @@ tags: published
 
 I fall asleep with my head on your chest.  
 I snuggle into you as we rest.
-I mummer softly in your ear,
+I murmur softly in your ear,
 all the things you love to hear.
 I whisper softly - "you warm my heart"
 I squeeze you tighter - I don’t want to part. 
