@@ -5,12 +5,14 @@ tags: published
 [My Site :)](https://emberauclair.github.io/Aurelie2/notes/landing/)
 ## Aurélie Auclair - Getting Started
 
-Hello! and welcome to my thoughts, everything here is written as notes for me, and so it might be hard to comprehend as it lacks cohesiveness and context. Also, the grey'd out links, are because the notes aren't shared. Either way, feel free to browse :)
-[[2022-10-17]]
+Hello! and welcome to my thoughts, everything here is written as notes for me, and so it might be hard to comprehend as it lacks cohesiveness and context. Also, the greyed out links are because the notes aren't shared. Either way, feel free to browse :)
+
+
 ---
+
 ## Interests
-- LGBTQ+
-- Writing/Poetry - see [[My Poems]]
+- LGBTQIA+
+- Writing/Poetry
 - Knowledge Management
 - Programming
 - Philosophy/religion
@@ -54,7 +56,7 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 .
 .
 ## Contact Me
-Add me on insta: ember.auclair
+Add me on insta: emberpadgett
 .
 .
 .
