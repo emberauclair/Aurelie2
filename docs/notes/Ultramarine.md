@@ -16,7 +16,7 @@ Who could say? Not I, nay.
 
 I take a step closer as the shadows shift
 A hooded figure, robed in shadows stands in the rift
-Ultramarine - the darkest blue eyes glowing
+Ultramarine - the brightest blue eyes glowing
 Another step and the shadows retreat 
 
 She has a crown - a simple affair 
