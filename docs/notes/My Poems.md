@@ -23,7 +23,7 @@ Other favorites :)
 [[I look left and walk right]]
 [[a piece of advice]]
 [[Severed cries and echoing sighs]]
-[[The Best]]
+[[The Best - A lament for the unloved]]
 [[I sit and ponder]]
 [[iavas]]
 [[softly]] 
