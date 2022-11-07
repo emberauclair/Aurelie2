@@ -9,7 +9,7 @@ distractions
 I stare at the whiteboard: its not quite straight,
 my foot begins to shake.
 I stare at the whiteboard: its not quite white,
-my heart races at the sight. 
+my heart races at the sight. x
 This whiteboard has a history,
 millions of lines drawn and erased.
 millions of colors interlaced.
@@ -27,3 +27,5 @@ and he lets out the smallest of sighs.
 Oh! he caught me staring!
 I remember that we are in class,
 and turn back around with a blush.
+
+-- Aurélie 2022
