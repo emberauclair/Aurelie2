@@ -2,6 +2,7 @@
 share: true
 rating: 11
 description: poem zine
+alias: zine
 ---
 [[landing]] 
 Forward: this selection of poems was written between March-2020, through July-2022. A laugh a smile, A crush, a blush. Introspection, word paintings, fantasy. Heartbreak, Mental illness, Emptiness. This is my best attempt to capture these feelings, bottle them up, and ink them on a page. 
@@ -46,7 +47,7 @@ Forward: this selection of poems was written between March-2020, through July-20
 
 # Emotional
 ##### the best
-![[the Best]]
+![[The Best - A lament for the unloved]]
 
 
 ##### dry eyes
