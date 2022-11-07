@@ -3,7 +3,7 @@ share: true
 tags: published
 ---
 [My Site :)](https://emberauclair.github.io/Aurelie2/notes/landing/)
-## Aurélie Auclair - Getting Started
+## Aurélie - Getting Started
 
 Hello! and welcome to my thoughts, everything here is written as notes for me, and so it might be hard to comprehend as it lacks cohesiveness and context. Also, the greyed out links are because the notes aren't shared. Either way, feel free to browse :)
 
@@ -32,12 +32,12 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 
 #### My Story
 [[Crescenda to Crescendo]]
-[[Aurelie Ember Auclair Biography]] - incomplete
+[[Aurélie Ember Biography]] - incomplete
 [[the story of a trans girl]] 
 
 
 #### Short Stories
-[[dystopian life book|dystopian life]]
+[[City Rat|dystopian life]]
 [[living carbon]]
 
 
