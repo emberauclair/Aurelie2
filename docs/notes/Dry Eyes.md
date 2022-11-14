@@ -3,7 +3,7 @@ share: true
 rating: 9
 description: trying to figure out what to do with life, achingly aimless
 ---
-[[landing]] [[My Poems]]
+[[Landing]] [[My Poems]]
 Dry Eyes
 .
 .
