@@ -4,7 +4,7 @@ tags: published
 rating: 10
 description: snuggles with my stuffed tiger as I fall asleep
 ---
-[[landing]] [[My Poems]] [[favorite]] #fav
+[[Landing]] [[My Poems]] [[favorite]] #fav
 # snuggle
 
 

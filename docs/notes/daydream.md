@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-[[landing]] [[My Poems]]
+[[Landing]] [[My Poems]]
 Daydream
 .
 .

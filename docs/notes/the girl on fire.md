@@ -7,7 +7,7 @@ share: true
 rating: 9
 description: I feel like a beautiful god who destroys everything she touches
 ---
-[[landing]] [[My Poems]]  #fav
+[[Landing]] [[My Poems]]  #fav
 the girl on fire 
 .
 .

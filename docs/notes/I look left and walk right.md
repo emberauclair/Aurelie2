@@ -5,7 +5,7 @@ tags: poem
 aliases: []
 share: true
 ---
-[[landing]] [[My Poems]]
+[[Landing]] [[My Poems]]
 tw suicide, self harm
 I look left and walk right
 .

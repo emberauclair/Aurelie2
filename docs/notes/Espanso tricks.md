@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-[[landing]]
+[[Landing]]
 [[app text expander]] #programming/espanso 
 
 ## latex symbols 

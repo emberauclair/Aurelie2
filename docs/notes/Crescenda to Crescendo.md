@@ -2,7 +2,7 @@
 share: true
 tags: published
 ---
-[[landing]] 
+[[Landing]] 
 Crescenda to Crescendo
 
 I am a fighter. Not literally, but I have fought for and won control of my life. I come from a family that was strongly against LGBTQ+, I was raised in isolation and homeschooled up until college. I didn't know what I wanted in life because I didn't have any experience in the real world, so I let my parents tell me where to go to college. I started at Rose-Hulman Institute of Technology in 2019, and the residential life was eye opening in terms of gaining my independence.. It was a completely different lifestyle, and I learned to be self-reliant. 
