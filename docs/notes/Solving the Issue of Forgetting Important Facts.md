@@ -2,7 +2,7 @@
 share: true
 tags: published
 ---
-[[landing]]
+[[Landing]]
 #philosophy 
 I have noticed in my short life that many people are stuck doing things inefficiently because optimizing the problem takes too much effort to be worthwhile. For example - students forget a lot of what they have learned in class. The brain is an amazing organ - it's great at processing information what color is your shirt? - takes nearly zero effort to determine, but remembering things for long periods is much harder: what did you eat for breakfast yesterday?
 
