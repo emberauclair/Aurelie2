@@ -5,7 +5,7 @@ tags: programming/espanso
 aliases: []
 share: true
 ---
-[[landing]]
+[[Landing]]
 [[Espanso tricks]] #programming/espanso 
 
 #  Productivity Shortcuts
