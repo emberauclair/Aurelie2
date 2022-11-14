@@ -4,7 +4,7 @@ rating: 11
 description: poem zine
 alias: zine
 ---
-[[landing]] 
+[[Landing]] 
 Forward: this selection of poems was written between March-2020, through July-2022. A laugh a smile, A crush, a blush. Introspection, word paintings, fantasy. Heartbreak, Mental illness, Emptiness. This is my best attempt to capture these feelings, bottle them up, and ink them on a page. 
 
 
