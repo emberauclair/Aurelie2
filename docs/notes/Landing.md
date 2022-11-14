@@ -5,7 +5,7 @@ banner: "https://wallpaperaccess.com/full/2352462.jpg"
 ---
 [My Site :)](https://emberauclair.github.io/Aurelie2/notes/landing/) 
 [[Kanban]]
-## Aurélie - Getting Started
+## About
 ```start-multi-column
 ID: ID_mdw9
 Number of Columns: 2
@@ -18,7 +18,7 @@ Hello! and welcome to my thoughts, everything here is written as notes for me, a
 --- column-end ---
 
 
-Name: Ember
+Name: Aurélie
 Personality: Quiet,  INTP
 Sexuality: Sapphic
 Birthday: 2001
@@ -40,12 +40,12 @@ Timezone: EST
 - [[Recipe List]] 
 
 ## Essays and Philosophy
-[[Solving the Issue of Forgetting Important Facts]]
-[[The Theory and Optimization of Thinking along with Problem Solving Philosophy]] - needs work
-[[Defining Religion, Mythos, Logos, Suffering]] - needs work
-[[essay on rationality and its role in stoicism]]
+[[Solving the Issue of Forgetting Important Facts|How to Avoid Forgetting Things]]
+[[The Theory and Optimization of Thinking along with Problem Solving Philosophy|Philosophy and Problem Solving]] - needs work
+[[Defining Religion, Mythos, Logos, Suffering|Religion, Mythos, Logos, Suffering]] - needs work
+[[Rationality and Its Role in Stoicism]]
 [[Organizing my brain]]
-[[rules of life and the reasons behind them]]
+[[Rules of Life and Reasons Behind Them]]
 
 ## Stories and Books
 ```start-multi-column
@@ -71,11 +71,11 @@ Largest Column: standard
 
 === end-multi-column
 
-## My Poems
+## Poems
 [[Sparking Ember's]]
 
 
-## Coding Things
+## Coding
 [[Espanso tricks]]
 [[espanso shortcuts]]
 [[Obsidian tricks]]
@@ -84,7 +84,7 @@ Largest Column: standard
 .
 .
 .
-## Contact Me
+## Contact
 Add me on insta: emberpadgett
 .
 .
