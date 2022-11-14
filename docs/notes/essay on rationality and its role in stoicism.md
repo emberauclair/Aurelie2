@@ -2,7 +2,7 @@
 share: true
 tags: published
 ---
-[[landing]]
+[[Landing]]
 # essay on rationality and its role in stoicism
 
 ## Introduction
