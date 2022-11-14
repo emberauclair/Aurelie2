@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-[[landing]] [[My Poems]]
+[[Landing]] [[My Poems]]
 [[complete]] [[starboard]]  [[posted]] #poem/starboard #poem 
 [[favorite]] #fav
 My mind is a restless thing
