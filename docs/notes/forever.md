@@ -3,7 +3,7 @@ share: true
 rating: 7
 description: wishing for a relationship
 ---
-[[landing]] [[My Poems]]
+[[Landing]] [[My Poems]]
 Forever
 .
 .
