@@ -2,7 +2,7 @@
 share: true
 tags: published
 ---
-[[landing]]
+[[Landing]]
 
 #philosophy 
 problems: 
