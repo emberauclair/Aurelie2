@@ -9,13 +9,13 @@ distractions
 I stare at the whiteboard: its not quite straight,
 my foot begins to shake.
 I stare at the whiteboard: its not quite white,
-my heart races at the sight. x
+my heart races at the sight.
 This whiteboard has a history,
 millions of lines drawn and erased.
 millions of colors interlaced.
 thousands of stories taught to blank faces
 It’s all blended together.
-  
+
 I hear someone rustle the pages of their book,
 I turn my head to sneak a quick look.
 I don’t find who made the noise,
