@@ -2,7 +2,7 @@
 share: true
 tags: published
 ---
-[[landing]] [[My Poems]] [[favorite]] #fav
+[[Landing]] [[My Poems]] [[favorite]] #fav
 .
 .
 # Small Sad Smile :)
