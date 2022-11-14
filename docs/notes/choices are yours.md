@@ -3,7 +3,7 @@ share: true
 rating: 8
 description: call to action!!!
 ---
-[[landing]] [[My Poems]] #fav
+[[Landing]] [[My Poems]] #fav
 [[complete]] [[favorite]] [[posted]] [[starboard]]   #poem/starboard #poem #submitted 
 
 Choices Are Yours 
