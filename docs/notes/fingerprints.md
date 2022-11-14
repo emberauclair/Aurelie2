@@ -2,8 +2,9 @@
 share: true
 rating: 9
 description: cute, remembering past love
+tags: poem, fav
 ---
-[[landing]]  [[My Poems]]  #fav
+[[Landing]]  [[My Poems]] 
 fingerprints 
 .
 .
@@ -29,5 +30,4 @@ I wish for your touch.
 -2021
 
 [[complete]] [[favorite]] [[uniqueForm]]  [[cute]] 
-#poem
 
