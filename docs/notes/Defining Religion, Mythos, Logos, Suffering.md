@@ -2,7 +2,7 @@
 share: true
 tags: published
 ---
-[[landing]] 
+[[Landing]] 
 #philosophy 
 
 — SOURCE: https://www.youtube.com/watch?v=DffqK6j-y1U
