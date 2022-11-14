@@ -2,7 +2,7 @@
 date: 17-04-22
 share: true
 ---
-[[landing]]
+[[Landing]]
 ## rules of living
 
 [[walk fast]]
