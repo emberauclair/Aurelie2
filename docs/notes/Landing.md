@@ -29,17 +29,21 @@ Timezone: EST
 --- column-end ---
 
 === end-multi-column
-## Interests
-- LGBTQIA+
+# Interests
+- [[LGBTQIA+]]
 - Writing/Poetry
-- Knowledge Management
+- [[Knowledge Management]]
 - Philosophy/religion
-- Psychology
 - Coding
 - Modeling
 - [[Recipe List]] 
+- [[Psychology and AI Landing|Psychology]] 
+	- [[Autism-ADD Landing|Autism and Personality research]] 
+	- [[Cognitive Behavior Therapy Landing|Cognitive Behavioral Therapy]]
+- [[Lean Bulk Nutrition|Nutrition]]
 
-## Essays and Philosophy
+
+# Essays and Philosophy
 [[Solving the Issue of Forgetting Important Facts|How to Avoid Forgetting Things]]
 [[The Theory and Optimization of Thinking along with Problem Solving Philosophy|Philosophy and Problem Solving]] - needs work
 [[Defining Religion, Mythos, Logos, Suffering|Religion, Mythos, Logos, Suffering]] - needs work
@@ -47,7 +51,7 @@ Timezone: EST
 [[Organizing my brain]]
 [[Rules of Life and Reasons Behind Them]]
 
-## Stories and Books
+# Stories and Books
 ```start-multi-column
 ID: ID_mo9s
 Number of Columns: 2
@@ -56,7 +60,7 @@ Largest Column: standard
 #### My Story
 ---
 [[Crescenda to Crescendo]]
-[[Aurélie Ember Biography]] - incomplete
+[[Aurélie Biography]] - incomplete
 [[the story of a trans girl]] 
 
 
@@ -75,7 +79,7 @@ Largest Column: standard
 [[Sparking Ember's]]
 
 
-## Coding
+# Coding
 [[Espanso tricks]]
 [[espanso shortcuts]]
 [[Obsidian tricks]]
