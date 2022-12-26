@@ -6,10 +6,10 @@ rating: 10
 
 distractions
 
-I stare at the whiteboard: its not quite straight,
-my foot begins to shake.
-I stare at the whiteboard: its not quite white,
-my heart races at the sight.
+I stare at the whiteboard, its not quite straight.
+My foot begins to shake.
+I stare at the whiteboard, its not quite white.
+My heart races at the sight.
 This whiteboard has a history,
 millions of lines drawn and erased.
 millions of colors interlaced.
